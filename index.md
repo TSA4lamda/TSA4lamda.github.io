@@ -2,7 +2,5 @@
 
 ***
 
-By likw
-
 hello
 
