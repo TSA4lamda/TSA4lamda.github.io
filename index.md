@@ -2,6 +2,6 @@
 
 ***
 
-hello
+see
 
-[Link to another page](./another-page.md).
+[Blog of Papers](./blog-of-papers.md).
